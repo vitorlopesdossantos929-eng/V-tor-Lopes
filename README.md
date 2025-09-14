@@ -1,4 +1,4 @@
-# About me 💬:
+# About me 💬 :
 ### - I'm I'm 20 years old Data Analytics and Economic Enthusiast from Brazil.
 
 ### - Learning :
@@ -32,4 +32,4 @@
 # Contact me :
 
 <a href="mailto:vitorlopesdossantos929@gmail.com">
-<img align="left" alt="Gmail" width="130" hight="100" src=
+<img align="left" alt="Gmail" width="130" hight="100" src= "https://vitorlopesdossantos929-eng/V-tor-Lopes/blob/main/gmail.png" />
