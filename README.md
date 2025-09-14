@@ -32,5 +32,5 @@
 # Contact me :
 
 <a href="mailto:vitorlopesdossantos929@gmail.com">
-<img align="left" alt="Gmail" width="130" hight="100" src= "https://vitorlopesdossantos929-eng/V-tor-Lopes/blob/main/gmail.png" />
+  <img align="left" alt="Gmail" width="130" hight="100" src="https://vitorlopesdossantos929-eng/V-tor-Lopes/blob/main/gmail.png"/>
 </a>
